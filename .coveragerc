@@ -1,0 +1,4 @@
+[run]
+branch = True
+source = dclock
+omit = site-packages, .tox
