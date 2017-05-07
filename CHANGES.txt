@@ -1,0 +1,7 @@
+CHANGES
+=======
+
+0.0.X (YYYY-MM-DD)
+------------------
+
+* Initial release.
