@@ -1,7 +1,7 @@
 docutils==0.13.1
 flake8==3.3.0
 ipdb==0.10.3
-mypy==0.510
+mypy==0.730
 pylint==1.7.1
 pytest-cov==2.4.0
 pytest-sugar==0.8.0
