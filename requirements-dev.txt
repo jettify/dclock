@@ -3,6 +3,6 @@ flake8==3.3.0
 ipdb==0.10.3
 mypy==0.510
 pylint==1.7.1
-pytest-cov==2.4.0
+pytest-cov==2.8.1
 pytest-sugar==0.8.0
 pytest==3.0.7
